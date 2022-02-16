@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, It's Hamza 👋
 
 <!--
 **hamzaazizofficial/hamzaazizofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 Pronouns: **Pro/grammer**
+- 📫 How to reach me: ![hamzaabdulaziz786@gmail.com](hamzaabdulaziz786@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaazizofficial&theme=radical)
