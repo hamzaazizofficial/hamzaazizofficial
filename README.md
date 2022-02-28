@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **Pro/grammer**
 - 📫 How to reach me: hamzaabdulaziz786@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaazizofficial&theme=radical&count_private=true)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaazizofficial&theme=radical&layout=compact)
