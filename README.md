@@ -29,10 +29,13 @@ Here are some ideas to get you started:
 ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)
 ## Hamza Aziz! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 <a href="www.linkedin.com/in/hamza-aziz-454804193">
-  <img align="left" alt="Saurav's Linkdein" img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
+  <img align="left" alt="Hamza's Linkdein" img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/hamz.exe/">
+  <img align="left" alt="Hamza's Instagram" img src=https://img.shields.io/badge/gmail-%23EA4335?&style=for-the-badge&logo=instagram&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:hamzaabdulaziz786@gmail.com">
-  <img align="left" alt="Saurav's Gmail" img src=https://img.shields.io/badge/gmail-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
+  <img align="left" alt="Hamza's Gmail" img src=https://img.shields.io/badge/gmail-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <br />
 <br />
