@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Hamza's Linkdein" img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/hamz.exe/">
-  <img align="left" alt="Hamza's Play Store" img src=https://img.shields.io/badge/instagram-%23EA4335?&style=for-the-badge&logo=playstore&logoColor=white style="margin-bottom: 5px;" />
+  <img align="left" alt="Hamza's Play Store" img src=https://img.shields.io/badge/instagram-%23EA4335?&style=for-the-badge&logo=play-store&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/hamz.exe/">
   <img align="left" alt="Hamza's Instagram" img src=https://img.shields.io/badge/instagram-%23EA4335?&style=for-the-badge&logo=instagram&logoColor=white style="margin-bottom: 5px;" />
