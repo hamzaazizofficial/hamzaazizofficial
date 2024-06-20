@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Hamza's Linkdein" img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/hamz.exe/">
-  <img align="left" alt="Hamza's Instagram" img src=https://img.shields.io/badge/gmail-%23EA4335?&style=for-the-badge&logo=instagram&logoColor=white style="margin-bottom: 5px;" />
+  <img align="left" alt="Hamza's Instagram" img src=https://img.shields.io/badge/instagram%23EA4335?&style=for-the-badge&logo=instagram&logoColor=pink style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:hamzaabdulaziz786@gmail.com">
   <img align="left" alt="Hamza's Gmail" img src=https://img.shields.io/badge/gmail-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
