@@ -67,7 +67,8 @@ Contact me to learn how my Android development skills and drive may help your bu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 **Popular Repository:**
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzaazizofficial&repo=WallPap&theme=radical)](https://github.com/hamzaazizofficial/WallPap)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzaazizofficial&repo=WallPap&theme=radical)]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaazizofficial&theme=radical&count_private=true) 
 
