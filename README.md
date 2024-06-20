@@ -66,6 +66,7 @@ Contact me to learn how my Android development skills and drive may help your bu
 <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/intellij-idea.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/pycharm.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/android.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
