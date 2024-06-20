@@ -68,7 +68,9 @@ Contact me to learn how my Android development skills and drive may help your bu
 
 **Popular Repository:**
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzaazizofficial&repo=WallPap&theme=radical)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzaazizofficial&repo=WallPap&theme=radical)
+
+**Statistics:**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaazizofficial&theme=radical&count_private=true) 
 
