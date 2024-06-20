@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Communication  from Birla Institute of Technology, Mesra 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems  Apart from that, I also like to guide and mentor newbies 👨🏻‍💻. I'm currently into Deep Learning 🧠 and working on Computer Vision 👀. 
-
 Thanks for taking the time to view my profile. ✨
 
 As a skilled Android developer with 3 years of expertise, I built Jetpack Compose apps with dependable and steady performance. I entered mobile app development with enthusiasm and a desire to create a new, rewarding product.
