@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <a href="www.linkedin.com/in/hamza-aziz-454804193">
   <img align="left" alt="Hamza's Linkdein" img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/hamz.exe/">
-  <img align="left" alt="Hamza's Play Store" img src=https://img.shields.io/badge/instagram-%23EA4335?&style=for-the-badge&logo=play-store&logoColor=white style="margin-bottom: 5px;" />
+<a href="https://play.google.com/store/apps/dev?id=7870775867932667955&hl=en">
+  <img align="left" alt="Hamza's Play Store" img src=https://img.shields.io/badge/Play%20Store-101010?&style=for-the-badge&logo=google-play&logoColor=white%20style=%22margin-bottom:%205px;" />
 </a>
 <a href="https://www.instagram.com/hamz.exe/">
   <img align="left" alt="Hamza's Instagram" img src=https://img.shields.io/badge/instagram-%23EA4335?&style=for-the-badge&logo=instagram&logoColor=white style="margin-bottom: 5px;" />
