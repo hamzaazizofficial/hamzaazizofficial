@@ -59,9 +59,6 @@ Contact me to learn how my Android development skills and drive may help your bu
 - 🎓 I have completed my B.S in Computer Applications from Aligarh Muslim University, Aligarh, India. 
 - 👨‍🏫 Full time Android Develpoer and part-time human.
 - 💬 Ask me about anything, I would like to answer.
-  
-
-**Popular Repository:**
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzaazizofficial&repo=WallPap&theme=radical)
 
