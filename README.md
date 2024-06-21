@@ -23,7 +23,7 @@ I am looking for a job that will allow me to join a great team and progress prof
 Contact me to learn how my Android development skills and drive may help your business.
 
 
-  <img align="right" width="300" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 
 ### More about me...
