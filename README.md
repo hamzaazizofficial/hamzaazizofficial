@@ -7,11 +7,11 @@
   <img align="left" alt="Hamza's Instagram" img src=https://img.shields.io/badge/instagram-%23EA4335?&style=for-the-badge&logo=instagram&logoColor=white style="margin-bottom: 5px;" />
 </a> -->
 
-<a href="mailto:hamzaabdulaziz786@gmail.com">
+<!-- <a href="mailto:hamzaabdulaziz786@gmail.com">
   <img align="left" alt="Hamza's Gmail" img src=https://img.shields.io/badge/Gmail?&style="margin-bottom: 5px;" />
 </a>
 <br />
-<br />
+<br /> -->
 
 Thanks for taking the time to view my profile. ✨
 
