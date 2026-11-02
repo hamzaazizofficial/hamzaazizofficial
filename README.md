@@ -16,7 +16,7 @@ Thanks for taking the time to view my profile. ✨
 
 As a skilled Android developer with 3 years of expertise, I built Jetpack Compose apps with dependable and steady performance. I entered mobile app development with enthusiasm and a desire to create a new, rewarding product.
 
-I am proud about the development of NoClue, a steganography app with over 10,000 downloads with a 4.9% rating on Google Play, FitBeats - Smart Wearable based Heart Attack Prevention System, an android app which helps heart patients to prevent strokes by diagnosing the disease in the meantime using ECG, lastly my COMPRESSR image compressor app with a stunning Jetpack Compose UI. These apps shows my ability to solve hard problems and create safe, engaging apps.
+I am proud about the development of <a href="https://play.google.com/store/apps/details?id=hamza.app.steganography&hl=en">NoClue</a>, a steganography app with over 10,000 downloads with a 4.9% rating on Google Play, FitBeats - Smart Wearable based Heart Attack Prevention System, an android app which helps heart patients to prevent strokes by diagnosing the disease in the meantime using ECG, lastly my <a href="https://play.google.com/store/apps/details?id=com.hamza.comprssr&hl=en&pli=1">ImgTools - All Tools One App</a>, image compression and editing app with having more than thousand users, with a stunning Jetpack Compose UI. These apps shows my ability to solve hard problems and create safe, engaging apps.
 
 I am looking for a job that will allow me to join a great team and progress professionally, So I work best in learning environments that emphasize practicing concepts and ideas.
 
