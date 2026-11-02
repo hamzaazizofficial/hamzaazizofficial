@@ -8,7 +8,7 @@
 </a> -->
 
 <a href="mailto:hamzaabdulaziz786@gmail.com">
-  <img align="left" alt="Hamza's Gmail" img src=https://images.seeklogo.com/logo-png/29/1/get-it-on-google-play-badge-logo-png_seeklogo-290335.png?&style=for-the-badge&logo=google&logoColor=white style="margin-bottom: 5px;" />
+  <img align="left" alt="Hamza's Gmail" img src=https://img.shields.io/badge/Gmail?&style=for-the-badge&logo=google&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <br />
 <br />
